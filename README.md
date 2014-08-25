@@ -83,3 +83,8 @@ It was installed into ./local
 ```
 
 done
+
+```
+bundle
+bundle exec nest/nested.rb
+```
